@@ -75,5 +75,22 @@ Number: 6176292929
 INVALID
 ```
 
+## Getting Started
+
+Let's start to use this project.
+
+## Prerequisites
+
+A compiler for C must be installed
+
+## Installation
+
+To execute the project open the terminal and go to the project folder. Then compile the code with a C compiler and execute the file generated:
+
+```sh
+make credit
+./credit
+```
+
 
 
