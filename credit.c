@@ -30,7 +30,7 @@ int main(void)
 
 int count_digits(long number)
 {
-    long digits = 0;
+    int digits = 0;
     while (number != 0)
     {
         number /= 10;
