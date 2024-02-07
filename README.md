@@ -81,7 +81,7 @@ Let's start to use this project.
 
 ## Prerequisites
 
-A compiler for C must be installed
+A compiler for C must be installed. Python 3 must be installed.
 
 ## Installation
 
@@ -92,5 +92,10 @@ make credit
 ./credit
 ```
 
+To execute with Python use this command:
+
+```sh
+python3 mario.py
+```
 
 
